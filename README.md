@@ -1,4 +1,4 @@
-# React Job Challenge
+# React Challenge
 
 ## Aplicación en React que consume la API provista para:
 
@@ -13,7 +13,7 @@ La interfaz maneja estados de carga, éxito y errores de la API, utilizando Reac
 ## Notas sobre la API
 
 Durante la implementación se detectó que la validación del endpoint
-/api/candidate/apply-to-job no es completamente consistente con lo indicado en la consigna. La documentación especifica enviar los siguientes campos:
+`/api/candidate/apply-to-job` no es completamente consistente con lo indicado en la consigna. La documentación especifica enviar los siguientes campos:
 
 - `uuid`
 - `jobId`
